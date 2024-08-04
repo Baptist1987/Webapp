@@ -1,0 +1,4 @@
+backend_path=backend/
+frontend_path=frontend/
+config_path=config/
+scripts_path=scripts/
