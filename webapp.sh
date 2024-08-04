@@ -1,3 +1,6 @@
 #!/bin/bash
 echo "Starting Streamlit application..."
-# Hier wird später der Befehl zum Starten der Anwendung eingefügt
+
+# Navigate to the backend directory and start the Streamlit app
+cd backend
+streamlit run main.py
